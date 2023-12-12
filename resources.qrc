@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/vectorlayer_dxf" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
