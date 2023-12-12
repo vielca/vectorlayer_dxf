@@ -10,10 +10,10 @@ version=0.1
 author=Juan Ortiz - Vielca Ingenieros
 email=juan.o@vielca.com
 
-about=Convert a multipoligon vector layer to DXF format, creating cad layers by grouped column data.
+about=Convert a multipoligon vector layer to DXF format, with the posibility to group the features by field into CAD layers.
 
 tracker=http://bugs
-repository=http://repo
+repository=https://github.com/vielca/vectorlayer_dxf/
 # End of mandatory metadata
 
 # Recommended items:
@@ -40,7 +40,7 @@ deprecated=False
 plugin_dependencies=ezdxf
 
 Category of the plugin: Raster, Vector, Database or Web
-# category=Vector
+category=Vector
 
 # If the plugin can run on QGIS Server.
 server=False
